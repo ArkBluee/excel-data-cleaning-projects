@@ -64,7 +64,7 @@ Each project folder contains a report summarizing key findings:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/excel-data-cleaning-projects.git
+   git clone https://github.com/ArkBluee/excel-data-cleaning-projects.git
 2. Navigate to the relevant project folder.
 
 3. Open the Excel files to review the data cleaning process and apply similar techniques to other datasets.
