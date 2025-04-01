@@ -7,7 +7,7 @@ This repository showcases a data-cleaning project using Microsoft Excel, part of
 
 ## Repository Structure
 
-📂 excel-data-cleaning-projects │── 📄 README.md # Project documentation │── 📂 project_1 # First data cleaning project │ │── data_raw.xlsx │ │── data_cleaned.xlsx │ │── report.pdf │
+📂 excel-data-cleaning-projects │── 📄 README.md # Project documentation │── 📂 project_1 # First data cleaning project │ │── data_raw.xlsx │ │── data_cleaned.xlsx │ 
 
 
 ## Project Overview
